@@ -53,7 +53,7 @@ private WebDriver driver;
 			 System.out.print("The message when the fiel message is missing is correct");}
 		 
 		 } else {
-			 System.out.print("Not Exist");
+			 System.out.print("Not Exist message");
 		 }
 		 
 		 
